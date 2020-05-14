@@ -1,4 +1,8 @@
 # s_trig
-col1 | col2 | col3
------|------|-----
-val1 | val2 | val3
+description | source | data location | assigned to
+------------|--------|---------------|------------
+stock prices|yahoo|python yfinance package|X  
+twitter sentiment|X|X|X
+google search popularity|X|X|X|
+news articles|X|X|X|
+
