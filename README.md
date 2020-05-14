@@ -1,1 +1,4 @@
 # s_trig
+col1 | col2 | col3
+-----|------|-----
+val1 | val2 | val3
