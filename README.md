@@ -6,7 +6,8 @@
 ## Data Sources
 description | source | data location | assigned to
 ------------|--------|---------------|------------
-stock prices|yahoo|python yfinance and quandl packages|Andrew + David 
+daily stock prices|yahoo|python yfinance and quandl packages|Andrew + David 
+minute stock prices|yahoo|python yfinance alpha\_vantage|Andrew + David 
 twitter sentiment|X|X|X
 google search popularity|X|X|X|
 news articles|X|X|X|
