@@ -9,7 +9,8 @@ description | source | data location | assigned to
 ------------|--------|---------------|------------
 daily stock prices|yahoo|python yfinance|Andrew + David 
 minute stock prices|yahoo|python alpha\_vantage|Andrew + David 
-twitter sentiment|X|X|X
-google search popularity|X|X|X|
-news articles|X|X|X|
-
+twitter sentiment|X|X|David
+news sentiment|X|X|David
+earnings|X|X|Andrew
+oil|X|X|Andrew
+google search popularity|X|X|X
