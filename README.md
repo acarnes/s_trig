@@ -2,7 +2,7 @@
 
 ## Assignments
 1. 2020/05/21 - Check out yfinance and quandl packages and plot favorite stocks (Andrew and David)
-2. 2020/05/28 - Investigate headline + twitter + other sentiment; CSI bkup (David). Investigate company earnings and oil (Andrew).
+2. 2020/05/28 - Investigate headline + twitter + other sentiment (David). Investigate company earnings (Andrew).
 
 ## Data Sources
 description | source | data location | assigned to
