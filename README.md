@@ -15,7 +15,7 @@ oil|X|X|Andrew
 google search popularity|X|X|X
 minute stock prices|yahoo|python alpha\_vantage|Andrew + David 
 
-### Financials
+### Financials Data
 **main source** - https://www.sec.gov/edgar/searchedgar/companysearch.html  
 &nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/sec-edgar-downloader/   
 &nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/pystock-crawler/   
