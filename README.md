@@ -8,16 +8,16 @@
 description | source | data location | assigned to
 ------------|--------|---------------|------------
 daily stock prices|yahoo|python yfinance|Andrew + David 
-financials|yahoo, sec edgar 10-K forms|see financials section|Andrew
-minute stock prices|yahoo|python alpha\_vantage|Andrew + David 
+financials|sec edgar 10-Q, 10-K forms|https://www.sec.gov/edgar|Andrew
 twitter sentiment|X|X|David
 news sentiment|X|X|David
 oil|X|X|Andrew
 google search popularity|X|X|X
+minute stock prices|yahoo|python alpha\_vantage|Andrew + David 
 
 ### Financials
 **main source** - https://www.sec.gov/edgar/searchedgar/companysearch.html  
 ^^^^ https://pypi.org/project/sec-edgar-downloader/   
 ^^^^ https://pypi.org/project/pystock-crawler/ 
 **secondary source** - https://finance.yahoo.com/quote/AAPL/financials?p=AAPL  
-^^^^ 5 years for free, 40 years with premium   
+^^^^ 5 years for free, 40 years with paid premium   
