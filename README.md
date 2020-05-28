@@ -17,7 +17,7 @@ minute stock prices|yahoo|python alpha\_vantage|Andrew + David
 
 ### Financials
 **main source** - https://www.sec.gov/edgar/searchedgar/companysearch.html  
-^^^^ https://pypi.org/project/sec-edgar-downloader/   
-^^^^ https://pypi.org/project/pystock-crawler/ 
+&nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/sec-edgar-downloader/   
+&nbsp;&nbsp;&nbsp;&nbsp;https://pypi.org/project/pystock-crawler/   
 **secondary source** - https://finance.yahoo.com/quote/AAPL/financials?p=AAPL  
-^^^^ 5 years for free, 40 years with paid premium   
+&nbsp;&nbsp;&nbsp;&nbsp;5 years for free, 40 years with paid premium   
