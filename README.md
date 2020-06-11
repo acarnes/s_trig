@@ -3,7 +3,7 @@
 ## Assignments
 1. 2020/05/21 - Check out yfinance and quandl packages and plot favorite stocks (Andrew and David)
 2. 2020/05/28 - Investigate headline + twitter + other sentiment (David). Investigate company earnings (Andrew).
-3. 2020/06/11 - Investigate headline + twitter + other sentiment (David). Get company earnings for single company via python (Andrew).
+3. 2020/06/18 - Build prototype scraper for NY Times (David). Build prototype scraper for SEC Edgar (Andrew).
 
 ## Data Sources
 description | source | data location | assigned to
